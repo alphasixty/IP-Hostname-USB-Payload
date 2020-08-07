@@ -1,11 +1,11 @@
 # IP-Hostname-USB-Payload
 
-ESPloit V2 Cactus WiFi/HID Payload - IP&Hostname Grab
+#### ESPloit V2 Cactus WiFi/HID Payload - IP&Hostname Grab
 
-This is formatted for ESPloit V2 by Corey Harding
-[Resource for ESPloit](https://github.com/exploitagency/ESPloitV2)
+#### This payload is formatted for ESPloit V2 by Corey Harding
+#### [Resource for ESPloit](https://github.com/exploitagency/ESPloitV2)
 
-Used on a WiFi Cactus
+I use this on a WiFi Cactus HID 
 
 This payload uses Powershell to grab the current username and IP address of the victims workstation and then uses gmail to send it back to the target source email account.
 
