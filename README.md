@@ -3,7 +3,7 @@
 ESPloit V2 Cactus WiFi/HID Payload - IP&Hostname Grab
 
 This is formatted for ESPloit V2 by Corey Harding
-[Resource for ESPloit] (https://github.com/exploitagency/ESPloitV2)
+[Resource for ESPloit](https://github.com/exploitagency/ESPloitV2)
 
 Used on a WiFi Cactus
 
